@@ -16,7 +16,6 @@
 Welcome to my GitHub profile! I am a Solidity Developer ready to implement smart contracts wherever you need them. I have been programming in blockchain since 2021 and I am eager to reach an auditor level in the field.
 In addition to my development work, I also share my knowledge through various platforms. I regularly create tutorials on YouTube and my blog to help others understand and learn about blockchain technology and  Solidity programming.
 
----
 ## Technologies
 
 <table align="center">
